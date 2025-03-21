@@ -1,2 +1,2 @@
 # col-count
-it´s a python script based on pandas that count the numbers of time a word appears in a especific column. 
+It´s a Python script based on Pandas that counts the number of times a word appears in a specific column. 
