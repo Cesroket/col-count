@@ -1,0 +1,11 @@
+#Counter-col Manual
+
+*This script is use to count the repetitions of words,
+in a file.tsv, please don´t enter an csv.
+
+*Usage: python script.py <input_file> <columna_index>
+<columna_index> ---> have to be a number (1,2,3,....)
+
+*The ootput_file ---> "<input_file>_count-result.txt"
+
+*This script was write by Cesroket, based on Pandas.
